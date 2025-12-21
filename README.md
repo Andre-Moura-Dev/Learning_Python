@@ -1,4 +1,4 @@
 # Learning_Python
 
 
-## This is a repository of studies about python
+## This is a repository of studies about Python
